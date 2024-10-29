@@ -84,6 +84,8 @@ Follow these steps to set up the project locally:
    ```bash
    php artisan migrate
    ```
+   ```bash
+   php artisan db:seed
    7. **Start the local development server:**
    ```bash
    php artisan serve
